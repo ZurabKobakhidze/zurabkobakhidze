@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 I’m currently working on BitCamp Projects. <br>🌱 I’m currently learning Full-stack Development in Bitcamp BootCamp. Front and Back. <br>⚡ Fun fact : I am writer and artist... 
+🔭 I’m currently working on BitCamp Projects. <br>🌱 I’m currently learning Full-stack Development in Bitcamp BootCamp. Front and Back. <br>⚡ Fun fact : I am writer and artist.
 
 
 ## 🌐 Socials:
