@@ -1,6 +1,5 @@
 # 💫 About Me: 
-🔭 I’m currently working on BitCamp Projects. <br>🌱 I’m currently learning Full-stack Development in Bitcamp BootCamp. Front and Back. <br>⚡ Fun fact : I am writer and artist.
-
+🔭 I’m currently working on StartUp Project. <br>🌱 I’m currently learning Full-stack Development in Bitcamp BootCamp. Front and Back. <br>⚡ Fun fact : I am writer and artist...
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zukakobakhidze/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zuka_kobakhidze/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zurab-kobakhidze-86425a115/) 
