@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 Software Developer . <br>⚡ Fun fact : I'm a writer and artist.
+🔭 Software Developer . <br>⚡ Fun fact : I'm a writer and artist...
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zukakobakhidze/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zuka_kobakhidze/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zurab-kobakhidze-86425a115/) 
